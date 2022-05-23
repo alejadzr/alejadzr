@@ -3,8 +3,8 @@
 
 ![giphy](https://user-images.githubusercontent.com/13011258/138346259-f515fe77-2265-4efc-aae1-8dda29bd3350.gif)
 
-I am a Chemical Engineering with minors in Entrepreneurship and Management. Im passionate and eager to learn new topics. I have experience in project management, product development and teaching. 
-I like languages. Im a native spanish speaker but also speak english, italian and a little bit of german. 
+I am a Chemical Engineer with minors in Entrepreneurship and Management. I'm passionate and eager to learn new topics. I have experience in project management, product development and teaching. 
+I like languages. I'm a native Spanish speaker but also speak English, Italian and a little bit of German. 
 
 ```js const thai = {
   pronouns: "she" | "her",
